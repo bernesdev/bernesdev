@@ -1,51 +1,53 @@
-# C:\USERS\BERNES> RUN GABRIEL.EXE
+<img width="1728" height="96" alt="Window (Top)" src="https://github.com/user-attachments/assets/178026ee-23b5-47fe-b1fb-e259ff8c78c9" />
 
-**Current Status:** Senior Flutter Developer | Mobile Engineer
+###
 
-**Location:** Osijek, Croatia 🇭🇷
+<img width="20" height="20" alt="Icon" src="https://github.com/user-attachments/assets/3ed86574-3635-4654-b03b-eaf89910a7e0" />
+Flutter Mobile Engineer
+<br>
+<img width="20" height="20" alt="Icon" src="https://github.com/user-attachments/assets/06a8b3d3-47b2-4afa-b674-7ce12ec85539" />
+Production-Grade Mobile Apps
+<br>
+<img width="20" height="12" alt="Croatia" src="https://github.com/user-attachments/assets/deb78082-671b-4eda-a9f1-e89130df6b17" />
+Osijek, Croatia
 
----
+###
 
-## 📂 PROJECTS
+<img width="1728" height="52" alt="Notepad (Bottom) - 2" src="https://github.com/user-attachments/assets/d88947cf-5db1-4135-8349-b0f6521b0826" />
 
-### Flutly Store
+### <img width="20" height="20" alt="Flutly" src="https://github.com/user-attachments/assets/7036f4c5-7af4-41cc-b0f2-e3e0e16a4995" /> Flutly Store
 **High-Performance E-Commerce Architecture**
 * **Architecture:** Feature-first Clean Architecture with strict layer separation.
 * **Specs:** Environment-based DI, Firebase integration, Sanity CMS.
 * **Quality:** CI/CD pipeline with +80% test coverage.
 * **Source:** [github.com/bernesdev/flutly-store](https://github.com/bernesdev/flutly-store)
 
----
+###
 
-## 🛠️ SKILLS
+<img width="1728" height="52" alt="Notepad (Bottom) - 2" src="https://github.com/user-attachments/assets/d6db5572-b7ec-4250-b9ec-000123d02b49" />
 
-| Icon | Category | Technologies |
-| :--- | :--- | :--- |
-| 📱 | **Mobile** | Flutter, Dart, Firebase, React Native, iOS/Android |
-| 🌐 | **Web/Backend** | React.js, Node.js (Express/NestJS), TypeScript |
-| ⚙️ | **DevOps/Tools** | CI/CD (GitHub Actions), Docker, iXGuard, Fastlane |
-| 🤝 | **Soft Skills** | Mentoring, Agile (Scrum), Tech Leadership |
+###
 
----
+**Mobile** | Flutter, BLoC, Firebase
 
-## 📜 EXPERIENCE
+**Web** | React.js, TypeScript
 
-* **[2022-Pres] SBF Group (Nike & Centauro):** Mobile Engineer for apps with +15M downloads. Reduced deployment time by 90% via automation.
-* **[2021-2023] Digital House:** Full-Stack Instructor & Mentor.
-* **[2022-2022] ZenBit Tech (Warsaw, PL):** International Mobile Developer.
-* **[2021-2022] PenseApp:** Full-Stack Developer focused on AgTech solutions.
+**Backend** | Node.js (NestJS), PostgreSQL
 
----
+**DevOps/Tools** | CI/CD (GitHub Actions), Docker
 
-## 📞 CONTACT
+###
 
-* 📧 **Email:** [bernes.dev@gmail.com](mailto:bernes.dev@gmail.com)
-* 🔗 **LinkedIn:** [linkedin.com/in/bernesdev](https://linkedin.com/in/bernesdev)
-* 📝 **Medium:** [@bernesdev](https://medium.com/@bernesdev)
+<img width="1728" height="52" alt="Notepad (Bottom) - 2" src="https://github.com/user-attachments/assets/2a5092d7-e199-4f2f-913a-43e26079d24f" />
 
----
+###
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FLUTTER-EXPERT-blue?style=for-the-badge&logo=flutter" />
-  <img src="https://img.shields.io/badge/CLEAN-ARCHITECTURE-success?style=for-the-badge" />
-</p>
+**LinkedIn:** [linkedin.com/in/bernesdev](https://linkedin.com/in/bernesdev)
+
+**Medium:** [@bernesdev](https://medium.com/@bernesdev)
+
+**Email:** [bernes.dev@gmail.com](mailto:bernes.dev@gmail.com)
+
+###
+
+<img width="1728" height="50" alt="Window (Bottom)" src="https://github.com/user-attachments/assets/420d2140-6c03-463b-940d-db244db440af" />
