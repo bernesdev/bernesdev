@@ -7,9 +7,6 @@ Flutter Mobile Engineer
 <br>
 <img width="20" height="20" alt="Icon" src="https://github.com/user-attachments/assets/06a8b3d3-47b2-4afa-b674-7ce12ec85539" />
 Scalable & Production-Grade Mobile Apps
-<br>
-<img width="20" height="12" alt="Icon" src="https://github.com/user-attachments/assets/deb78082-671b-4eda-a9f1-e89130df6b17" />
-Osijek, Croatia
 
 ###
 
