@@ -2,17 +2,15 @@
 
 ###
 
-<img width="20" height="20" alt="Icon" src="https://github.com/user-attachments/assets/3ed86574-3635-4654-b03b-eaf89910a7e0" />
-Flutter Mobile Engineer
+<img src="https://github.com/user-attachments/assets/3ed86574-3635-4654-b03b-eaf89910a7e0" width="20" align="center"> **Full-Stack Engineer**
 <br>
-<img width="20" height="20" alt="Icon" src="https://github.com/user-attachments/assets/06a8b3d3-47b2-4afa-b674-7ce12ec85539" />
-Scalable & Production-Grade Mobile Apps
+<img src="https://github.com/user-attachments/assets/06a8b3d3-47b2-4afa-b674-7ce12ec85539" width="20" align="center"> Flutter | React Native | Node.js
 
 ###
 
 <img width="1728" height="52" alt="Notepad (Bottom) - 2" src="https://github.com/user-attachments/assets/d88947cf-5db1-4135-8349-b0f6521b0826" />
 
-### <img width="20" height="20" alt="Flutly" src="https://github.com/user-attachments/assets/7036f4c5-7af4-41cc-b0f2-e3e0e16a4995" /> Flutly Store
+### <img width="20" alt="Flutly" src="https://github.com/user-attachments/assets/7036f4c5-7af4-41cc-b0f2-e3e0e16a4995" /> Flutly Store
 
 <img src="https://github.com/user-attachments/assets/65cd2024-98fa-4c15-bd00-dd32fa1ccef7" alt="Flutly Store" height="280">
 
@@ -29,10 +27,10 @@ Scalable & Production-Grade Mobile Apps
 
 ###
 
-- <img width="20" height="20" alt="Icon" src="https://github.com/user-attachments/assets/6795145d-b646-4610-8150-056daef29ca1" /> Mobile: Flutter, BLoC, Firebase
-- <img width="20" height="20" alt="Icon" src="https://github.com/user-attachments/assets/ca04eaa1-e1ef-4859-8b03-9b07b3ad54a4" /> Web: React.js, TypeScript
-- <img width="20" height="20" alt="Icon" src="https://github.com/user-attachments/assets/7ef80583-37e8-422a-9269-6bafe461c20a" /> Backend: Node.js (NestJS), PostgreSQL
-- <img width="20" height="20" alt="Icon" src="https://github.com/user-attachments/assets/ed6a7cc3-f54a-4534-95a7-4d69b2bdd2f3" /> DevOps/Tools: CI/CD (GitHub Actions), Docker
+- <img align="center" width="20" src="https://github.com/user-attachments/assets/6795145d-b646-4610-8150-056daef29ca1" /> Mobile: Flutter, React Native, Firebase
+- <img align="center" width="20" src="https://github.com/user-attachments/assets/ca04eaa1-e1ef-4859-8b03-9b07b3ad54a4" /> Web: React, TypeScript
+- <img align="center" width="20" src="https://github.com/user-attachments/assets/7ef80583-37e8-422a-9269-6bafe461c20a" /> Backend: Node.js, NestJS, PostgreSQL, Redis
+- <img align="center" width="20" src="https://github.com/user-attachments/assets/ed6a7cc3-f54a-4534-95a7-4d69b2bdd2f3" /> DevOps/Tools: CI/CD (GitHub Actions), Docker
 
 ###
 
@@ -40,11 +38,11 @@ Scalable & Production-Grade Mobile Apps
 
 ###
 
-<img width="20" height="20" alt="Icon" src="https://github.com/user-attachments/assets/f9e802d3-df06-45ed-aa11-91c34fa36634" /> LinkedIn: [linkedin.com/in/bernesdev](https://linkedin.com/in/bernesdev)
+<img width="20" align="center" src="https://github.com/user-attachments/assets/f9e802d3-df06-45ed-aa11-91c34fa36634" /> LinkedIn: [linkedin.com/in/bernesdev](https://linkedin.com/in/bernesdev)
 <br>
-<img width="20" height="20" alt="Icon" src="https://github.com/user-attachments/assets/89587298-f9b3-4a00-be23-1f8f20ee73e3" /> Medium: [@bernesdev](https://medium.com/@bernesdev)
+<img width="20" align="center" src="https://github.com/user-attachments/assets/89587298-f9b3-4a00-be23-1f8f20ee73e3" /> Medium: [@bernesdev](https://medium.com/@bernesdev)
 <br>
-<img width="20" height="20" alt="Icon" src="https://github.com/user-attachments/assets/5f37faa5-880f-4106-8350-39b14ec38800" /> Email: [bernes.dev@gmail.com](mailto:bernes.dev@gmail.com)
+<img width="20" align="center" src="https://github.com/user-attachments/assets/5f37faa5-880f-4106-8350-39b14ec38800" /> Email: [bernes.dev@gmail.com](mailto:bernes.dev@gmail.com)
 
 ###
 
