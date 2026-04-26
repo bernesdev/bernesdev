@@ -10,15 +10,27 @@
 
 <img width="1728" height="52" alt="Notepad (Bottom) - 2" src="https://github.com/user-attachments/assets/d88947cf-5db1-4135-8349-b0f6521b0826" />
 
-### <img width="20" alt="Flutly" src="https://github.com/user-attachments/assets/7036f4c5-7af4-41cc-b0f2-e3e0e16a4995" /> Flutly Store
+### <img width="20" align="center" alt="Bookly" src="https://github.com/user-attachments/assets/18ef5e9d-ddfb-4f51-9594-5c0a9841cad6" /> Bookly Stay
+
+<img alt="Bookly Stay" height="280" src="https://github.com/user-attachments/assets/31c4ef39-e02b-4bca-afed-679e1bc1a616" />
+
+#### Scalable React Native Booking App
+* Designed modular architecture using Expo Router, Zustand, and TanStack Query for all app flows.
+* Built full accommodation journey with geo-search, stay preferences, and mocked reservations.
+* Integrated Firebase (Auth, Firestore, Crashlytics) with Social Login and bug reporting.
+* Maintained production-ready Expo code with i18n, MMKV, and 80%+ test coverage.
+* Source: [github.com/bernesdev/bookly-stay](https://github.com/bernesdev/bookly-stay)
+* API: [github.com/bernesdev/bookly-api](https://github.com/bernesdev/bookly-api)
+
+### <img width="20" align="center" alt="Flutly" src="https://github.com/user-attachments/assets/7036f4c5-7af4-41cc-b0f2-e3e0e16a4995" /> Flutly Store
 
 <img src="https://github.com/user-attachments/assets/65cd2024-98fa-4c15-bd00-dd32fa1ccef7" alt="Flutly Store" height="280">
 
-#### Scalable Flutter E-Commerce Architecture
-* Designed and implemented a feature-first Clean Architecture with strict layer separation
-* Built environment-based dependency injection with backend swapping
-* Implemented CI/CD with 80%+ test coverage
-* Integrated Firebase and Sanity CMS for dynamic content and cart sync
+#### Scalable Flutter E-Commerce App
+* Designed and implemented a feature-first Clean Architecture with strict layer separation.
+* Built environment-based dependency injection with backend swapping.
+* Implemented CI/CD with 80%+ test coverage.
+* Integrated Firebase and Sanity CMS for dynamic content and cart sync.
 * Source: [github.com/bernesdev/flutly-store](https://github.com/bernesdev/flutly-store)
 
 ###
