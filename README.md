@@ -4,7 +4,7 @@
 
 <img src="https://github.com/user-attachments/assets/3ed86574-3635-4654-b03b-eaf89910a7e0" width="20" align="center"> **Full-Stack Engineer**
 <br>
-<img src="https://github.com/user-attachments/assets/06a8b3d3-47b2-4afa-b674-7ce12ec85539" width="20" align="center"> Flutter | React Native | Node.js
+<img src="https://github.com/user-attachments/assets/06a8b3d3-47b2-4afa-b674-7ce12ec85539" width="20" align="center"> Flutter | React Native | TypeScript | Node.js | NestJS
 
 ###
 
