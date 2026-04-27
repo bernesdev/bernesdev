@@ -32,6 +32,7 @@
 * Implemented CI/CD with 80%+ test coverage.
 * Integrated Firebase and Sanity CMS for dynamic content and cart sync.
 * Source: [github.com/bernesdev/flutly-store](https://github.com/bernesdev/flutly-store)
+* CMS: [github.com/bernesdev/flutly-cms](https://github.com/bernesdev/flutly-cms)
 
 ###
 
