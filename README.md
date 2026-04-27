@@ -58,4 +58,4 @@
 
 ###
 
-<img width="1728" height="50" alt="Window (Bottom)" src="https://github.com/user-attachments/assets/420d2140-6c03-463b-940d-db244db440af" />
+<img width="1728" height="50" alt="Window (Bottom)" src="https://github.com/user-attachments/assets/841a0186-9307-46ff-8e65-70a1c7fce26d" />
